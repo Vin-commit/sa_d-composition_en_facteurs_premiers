@@ -35,4 +35,3 @@ nb = int(input(“Entrez un nombre à décomposer.”))
 
 if (décomposition(nb)):
     print (“Une de ses décompositions en facteur(s) est : “, décomposition(nb)) 
------------------------------------------------------------------ Résultat ---------------------------------------------------------------------------------
